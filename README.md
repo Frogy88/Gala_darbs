@@ -35,6 +35,6 @@ Lietotājs var viegli skenēt preču EAN kodus un sistēma automātiski ievadīs
 
 
 
- # Asauksmes un ERROR
+ # Atsauksmes un ERROR
    
   Ja atrodaties kļūdas vai vēlaties piedāvāt uzlabojumus, lūdzu, iesniedziet pull request.
